@@ -11,19 +11,19 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 <div align="center">
 
 #### Homepage
-<img src="/assets/images/screenshots/homepage.png" alt="VAIDYA Homepage" width="800"/>
+<img src="assets/images/screenshots/homepage.png" alt="VAIDYA Homepage" width="800"/>
 
 #### Login Page
-<img src="/assets/images/screenshots/login_page.png" alt="Login Page" width="800"/>
+<img src="assets/images/screenshots/login_page.png" alt="Login Page" width="800"/>
 
 #### Dashboard
-<img src="/assets/images/screenshots/Dashboard.png" alt="Dashboard" width="800"/>
+<img src="assets/images/screenshots/Dashboard.png" alt="Dashboard" width="800"/>
 
 #### Diagnosis Page
-<img src="/assets/images/screenshots/Diagnosis_page.png" alt="Diagnosis Page" width="800"/>
+<img src="assets/images/screenshots/Diagnosis_page.png" alt="Diagnosis Page" width="800"/>
 
 #### Profile Page
-<img src="/assets/images/screenshots/Profile.png" alt="Profile Page" width="800"/>
+<img src="assets/images/screenshots/Profile.png" alt="Profile Page" width="800"/>
 
 </div>
 
@@ -32,8 +32,8 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 <div align="center">
 
 #### Complete Application Demo
-<a href="/assets/videos/demos/VAIDYA.mp4" target="_blank">
-  <img src="/assets/images/screenshots/homepage.png" alt="Watch Demo Video" width="800" style="border: 2px solid #e2e8f0; border-radius: 8px;"/>
+<a href="assets/videos/demos/VAIDYA.mp4" target="_blank">
+  <img src="assets/images/screenshots/homepage.png" alt="Watch Demo Video" width="800" style="border: 2px solid #e2e8f0; border-radius: 8px;"/>
 </a>
 
 *Click the image above to watch the full demo video*
