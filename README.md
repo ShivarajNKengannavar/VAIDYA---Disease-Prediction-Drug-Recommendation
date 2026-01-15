@@ -39,9 +39,6 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 - [📥 Download Compressed Video (2.44MB)](assets/videos/demos/VAIDYA-compressed.mp4)
 - [📥 Original High-Quality Video (56.5MB)](https://github.com/ShivarajNKengannavar/VAIDYA---Disease-Prediction-Drug-Recommendation/releases/download/v1.0/VAIDYA.mp4)
 
-**🌐 Watch Online:**
-- [▶️ Watch on YouTube](https://www.youtube.com) *(Recommended for best experience)*
-
 ---
 
 *The compressed video (2.44MB) is optimized for quick download. For the best viewing experience, watch on YouTube or download the high-quality version.*
@@ -83,7 +80,6 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 - **Radix UI** - Unstyled, accessible component primitives
 - **shadcn/ui** - Beautiful, accessible component library
 - **Lucide React** - Consistent icon system
-- **Framer Motion** - Smooth animations and transitions
 
 ### Backend & Database
 - **Supabase** - Backend-as-a-Service with:
@@ -433,7 +429,7 @@ du -h public/assets/videos/demos/*
 ## 📞 Contact
 
 **Email**: shivarajnkengannavar@example.com  
-**Portfolio**: https://shivaraj.dev  
+**Portfolio**: [https://shivaraj.dev  ](https://shivarajnkengannavar-portfolio.vercel.app/)
 **LinkedIn**: https://www.linkedin.com/in/shivarajkengannavar/  
 **GitHub**: https://github.com/ShivarajNKengannavar
 
