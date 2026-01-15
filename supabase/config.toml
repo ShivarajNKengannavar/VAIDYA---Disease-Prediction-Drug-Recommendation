@@ -1,0 +1,7 @@
+project_id = "cpjqjmweyamgljsyutra"
+
+[functions.vaidya-diagnosis]
+verify_jwt = false
+
+[functions.vaidya-chat]
+verify_jwt = false

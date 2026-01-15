@@ -1,0 +1,226 @@
+symptom,disease,primary_count,total_count,confidence
+itching,Hepatitis B,115,692,0.166
+skin_rash,Psoriasis,119,809,0.147
+nodal_skin_eruptions,Fungal infection,111,115,0.965
+continuous_sneezing,Common Cold,120,234,0.513
+shivering,Allergy,110,124,0.887
+chills,Typhoid,125,847,0.148
+joint_pain,Dengue,120,696,0.172
+stomach_pain,GERD,121,237,0.511
+acidity,Migraine,115,232,0.496
+ulcers_on_tongue,GERD,108,108,1.0
+muscle_wasting,AIDS,113,118,0.958
+vomiting,Tuberculosis,119,1948,0.061
+burning_micturition,Urinary tract infection,113,221,0.511
+spotting_urination,Unknown,0,0,0.0
+fatigue,Common Cold,124,2004,0.062
+weight_gain,Hypothyroidism,119,119,1.0
+anxiety,Hypoglycemia,116,116,1.0
+cold_hands_and_feets,Hypothyroidism,118,118,1.0
+mood_swings,Hyperthyroidism,117,231,0.506
+weight_loss,Tuberculosis,120,472,0.254
+restlessness,Hyperthyroidism,117,231,0.506
+lethargy,Hypothyroidism,118,463,0.255
+patches_in_throat,AIDS,109,114,0.956
+irregular_sugar_level,Diabetes ,114,114,1.0
+cough,Common Cold,146,638,0.229
+high_fever,Typhoid,127,1423,0.089
+sunken_eyes,Gastroenteritis,112,112,1.0
+breathlessness,Pneumonia,121,465,0.26
+sweating,Hyperthyroidism,120,698,0.172
+dehydration,Gastroenteritis,113,113,1.0
+indigestion,Migraine,114,235,0.485
+headache,Common Cold,144,1190,0.121
+yellowish_skin,Hepatitis B,119,928,0.128
+dark_urine,Urinary tract infection,122,703,0.174
+nausea,Dengue,123,1162,0.106
+loss_of_appetite,Tuberculosis,126,1176,0.107
+pain_behind_the_eyes,Dengue,126,126,1.0
+back_pain,Dengue,121,237,0.511
+constipation,Typhoid,120,240,0.5
+abdominal_pain,Hepatitis E,120,1045,0.115
+diarrhoea,Gastroenteritis,122,579,0.211
+mild_fever,Common Cold,147,508,0.289
+yellow_urine,Hepatitis B,114,114,1.0
+yellowing_of_eyes,Hepatitis B,125,827,0.151
+acute_liver_failure,Hepatitis E,114,122,0.934
+fluid_overload,Unknown,0,0,0.0
+swelling_of_stomach,Alcoholic hepatitis,115,115,1.0
+swelled_lymph_nodes,Tuberculosis,123,359,0.343
+malaise,Hepatitis B,124,733,0.169
+blurred_and_distorted_vision,Hypoglycemia,118,346,0.341
+phlegm,Tuberculosis,122,363,0.336
+throat_irritation,Common Cold,134,138,0.971
+redness_of_eyes,Common Cold,123,123,1.0
+sinus_pressure,Common Cold,126,126,1.0
+runny_nose,Common Cold,147,147,1.0
+congestion,Common Cold,130,130,1.0
+chest_pain,Pneumonia,124,710,0.175
+weakness_in_limbs,Cervical spondylosis,108,113,0.956
+fast_heart_rate,Pneumonia,124,244,0.508
+pain_during_bowel_movements,Dimorphic hemmorhoids(piles),115,115,1.0
+pain_in_anal_region,Dimorphic hemmorhoids(piles),117,117,1.0
+bloody_stool,Dimorphic hemmorhoids(piles),115,115,1.0
+irritation_in_anus,Dimorphic hemmorhoids(piles),117,117,1.0
+neck_pain,Cervical spondylosis,118,232,0.509
+dizziness,Cervical spondylosis,115,338,0.34
+cramps,Varicose veins,115,115,1.0
+bruising,Varicose veins,114,114,1.0
+obesity,Diabetes ,114,228,0.5
+swollen_legs,Varicose veins,116,116,1.0
+swollen_blood_vessels,Varicose veins,112,112,1.0
+puffy_face_and_eyes,Hypothyroidism,116,116,1.0
+enlarged_thyroid,Hypothyroidism,121,124,0.976
+brittle_nails,Hypothyroidism,125,125,1.0
+swollen_extremeties,Hypothyroidism,122,122,1.0
+excessive_hunger,Hypoglycemia,124,472,0.263
+extra_marital_contacts,AIDS,111,111,1.0
+drying_and_tingling_lips,Hypoglycemia,118,122,0.967
+slurred_speech,Hypoglycemia,123,123,1.0
+knee_pain,Osteoarthristis,114,119,0.958
+hip_joint_pain,Osteoarthristis,114,119,0.958
+muscle_weakness,Hyperthyroidism,123,239,0.515
+stiff_neck,Migraine,115,234,0.491
+swelling_joints,Arthritis,118,232,0.509
+movement_stiffness,Arthritis,117,117,1.0
+spinning_movements,(vertigo) Paroymsal  Positional Vertigo,108,108,1.0
+loss_of_balance,Cervical spondylosis,115,343,0.335
+unsteadiness,(vertigo) Paroymsal  Positional Vertigo,114,114,1.0
+weakness_of_one_body_side,Paralysis (brain hemorrhage),113,113,1.0
+loss_of_smell,Common Cold,122,122,1.0
+bladder_discomfort,Urinary tract infection,119,119,1.0
+foul_smell_ofurine,Unknown,0,0,0.0
+continuous_feel_of_urine,Urinary tract infection,119,119,1.0
+passage_of_gases,Peptic ulcer diseae,114,114,1.0
+internal_itching,Peptic ulcer diseae,115,115,1.0
+toxic_look_(typhos),Typhoid,121,125,0.968
+depression,Hypothyroidism,123,240,0.512
+irritability,Hypoglycemia,124,483,0.257
+muscle_pain,Common Cold,125,489,0.256
+altered_sensorium,Paralysis (brain hemorrhage),116,116,1.0
+red_spots_over_body,Chicken pox,122,240,0.508
+belly_pain,Typhoid,118,122,0.967
+abnormal_menstruation,Hypothyroidism,123,245,0.502
+dischromic_patches,Unknown,0,0,0.0
+watering_from_eyes,Allergy,108,108,1.0
+increased_appetite,Diabetes ,120,124,0.968
+polyuria,Diabetes ,120,125,0.96
+family_history,Bronchial Asthma,116,231,0.502
+mucoid_sputum,Bronchial Asthma,116,116,1.0
+rusty_sputum,Pneumonia,128,133,0.962
+lack_of_concentration,Hypertension ,114,114,1.0
+visual_disturbances,Migraine,119,119,1.0
+receiving_blood_transfusion,Hepatitis B,121,121,1.0
+receiving_unsterile_injections,Hepatitis B,125,129,0.969
+coma,Hepatitis E,120,120,1.0
+stomach_bleeding,Hepatitis E,120,124,0.968
+distention_of_abdomen,Alcoholic hepatitis,116,116,1.0
+history_of_alcohol_consumption,Alcoholic hepatitis,118,118,1.0
+blood_in_sputum,Tuberculosis,125,129,0.969
+prominent_veins_on_calf,Varicose veins,119,119,1.0
+palpitations,Hypoglycemia,124,128,0.969
+painful_walking,Arthritis,118,232,0.509
+pus_filled_pimples,Acne,111,111,1.0
+blackheads,Acne,113,113,1.0
+scurring,Acne,109,114,0.956
+skin_peeling,Psoriasis,119,119,1.0
+silver_like_dusting,Psoriasis,117,117,1.0
+small_dents_in_nails,Psoriasis,119,119,1.0
+inflammatory_nails,Psoriasis,119,119,1.0
+blister,Impetigo,115,115,1.0
+red_sore_around_nose,Impetigo,119,119,1.0
+yellow_crust_ooze,Impetigo,119,119,1.0
+watery_eyes,Common Cold,14,24,0.583
+eyes_watering,Common Cold,8,14,0.571
+sneezing,Common Cold,148,157,0.943
+nasal_congestion,Common Cold,146,146,1.0
+stuffy_nose,Common Cold,6,6,1.0
+post_nasal_drip,Common Cold,11,11,1.0
+sore_throat,Common Cold,147,153,0.961
+dry_throat,Common Cold,11,11,1.0
+hoarse_voice,Common Cold,4,9,0.444
+voice_loss,Bronchial Asthma,3,3,1.0
+difficulty_swallowing,GERD,2,2,1.0
+body_aches,Influenza,26,42,0.619
+general_malaise,Influenza,8,12,0.667
+chapped_lips,Allergy,5,5,1.0
+dry_lips,Unknown,0,0,0.0
+cracked_lips,Allergy,7,7,1.0
+lips_swelling,Allergy,8,8,1.0
+mouth_ulcers,GERD,3,3,1.0
+tongue_swelling,Allergy,6,6,1.0
+gum_swelling,Unknown,0,0,0.0
+gum_bleeding,Unknown,0,0,0.0
+tooth_pain,Unknown,0,0,0.0
+dental_pain,Unknown,0,0,0.0
+jaw_pain,Unknown,0,0,0.0
+earache,Unknown,0,0,0.0
+ear_pain,Unknown,0,0,0.0
+ear_discharge,Unknown,0,0,0.0
+tinnitus,Unknown,0,0,0.0
+ringing_in_ears,Unknown,0,0,0.0
+insomnia,Unknown,0,0,0.0
+sleep_disturbance,Unknown,0,0,0.0
+excessive_daytime_sleepiness,Unknown,0,0,0.0
+shortness_of_breath,Pneumonia,7,7,1.0
+wheezing,Pneumonia,3,5,0.6
+asthma_like_symptoms,Bronchial Asthma,7,7,1.0
+sinusitis_symptoms,Common Cold,6,6,1.0
+allergic_reaction,Allergy,7,7,1.0
+urticaria,Allergy,3,3,1.0
+hives,Allergy,2,2,1.0
+itchy_skin,Psoriasis,5,8,0.625
+itchy_eyes,Allergy,3,3,1.0
+itchy_throat,Allergy,3,3,1.0
+itchy_nose,Allergy,3,3,1.0
+muscle_soreness,Influenza,8,11,0.727
+body_fatigue,Influenza,3,6,0.5
+extreme_tiredness,Influenza,9,12,0.75
+tremors,Influenza,4,4,1.0
+shakiness,Hypoglycemia,6,6,1.0
+chills_and_fever,Malaria,5,14,0.357
+fever_with_chills,Typhoid,7,13,0.538
+intermittent_fever,Malaria,7,13,0.538
+recurring_fever,Malaria,8,8,1.0
+night_sweats,Tuberculosis,8,14,0.571
+cold_sweat,Unknown,0,0,0.0
+excessive_sweating,Hyperthyroidism,7,7,1.0
+dry_mouth,Common Cold,4,4,1.0
+excessive_thirst,Hyperthyroidism,5,5,1.0
+low_energy,Hypothyroidism,4,4,1.0
+reduced_appetite,Unknown,0,0,0.0
+difficulty_eating,GERD,2,2,1.0
+swallowing_difficulty,Unknown,0,0,0.0
+bloating,GERD,6,6,1.0
+abdominal_bloating,GERD,3,3,1.0
+gas_in_stomach,GERD,3,3,1.0
+flatulence,Unknown,0,0,0.0
+excessive_gas,Unknown,0,0,0.0
+loose_stools,Gastroenteritis,5,5,1.0
+watery_stool,Gastroenteritis,7,7,1.0
+frequent_stool,Unknown,0,0,0.0
+urgency_of_stool,Unknown,0,0,0.0
+incomplete_evacuation,Unknown,0,0,0.0
+straining_during_stool,Unknown,0,0,0.0
+frequent_urination,Urinary tract infection,125,125,1.0
+painful_urination,Urinary tract infection,5,5,1.0
+dysuria,Urinary tract infection,4,4,1.0
+urinary_incontinence,Unknown,0,0,0.0
+nocturia,Urinary tract infection,5,5,1.0
+frequent_urination_at_night,Unknown,0,0,0.0
+urinary_retention,Unknown,0,0,0.0
+cloudy_urine,Urinary tract infection,5,5,1.0
+foul_smelling_urine,Urinary tract infection,5,5,1.0
+urine_discoloration,Unknown,0,0,0.0
+dark_colored_urine,Unknown,0,0,0.0
+foamy_urine,Unknown,0,0,0.0
+pale_urine,Urinary tract infection,120,123,0.976
+severe_cough,Influenza,20,34,0.588
+muscle_aches,Influenza,27,35,0.771
+burning_urination,Urinary tract infection,127,127,1.0
+blood_in_urine,Urinary tract infection,4,4,1.0
+chest_congestion,Pneumonia,7,7,1.0
+dry_cough,Common Cold,5,5,1.0
+productive_cough,Pneumonia,6,10,0.6
+nausea_and_vomiting,Gastroenteritis,11,18,0.611
+diarrhea,Gastroenteritis,11,11,1.0

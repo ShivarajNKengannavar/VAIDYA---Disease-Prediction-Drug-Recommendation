@@ -1,0 +1,37 @@
+disease,mapped_symptom_count,avg_confidence
+Unknown,33,0.0
+Common Cold,24,0.7476250000000001
+Urinary tract infection,13,0.897
+Allergy,12,0.9905833333333334
+Hypothyroidism,10,0.8244999999999999
+Pneumonia,8,0.6381249999999999
+GERD,8,0.938875
+Hypoglycemia,8,0.724625
+Influenza,8,0.70275
+Gastroenteritis,7,0.8317142857142857
+Hepatitis B,7,0.5118571428571429
+Tuberculosis,7,0.3772857142857143
+Typhoid,6,0.535
+Psoriasis,6,0.7953333333333333
+Hyperthyroidism,6,0.6164999999999999
+Varicose veins,5,1.0
+Bronchial Asthma,4,0.8755
+Migraine,4,0.618
+Diabetes ,4,0.857
+Dengue,4,0.44725000000000004
+Dimorphic hemmorhoids(piles),4,1.0
+Hepatitis E,4,0.75425
+Cervical spondylosis,4,0.535
+Malaria,3,0.6316666666666667
+AIDS,3,0.9713333333333333
+Acne,3,0.9853333333333333
+Arthritis,3,0.6726666666666666
+Alcoholic hepatitis,3,1.0
+Impetigo,3,1.0
+Paralysis (brain hemorrhage),2,1.0
+Osteoarthristis,2,0.958
+(vertigo) Paroymsal  Positional Vertigo,2,1.0
+Peptic ulcer diseae,2,1.0
+Fungal infection,1,0.965
+Hypertension ,1,1.0
+Chicken pox,1,0.508

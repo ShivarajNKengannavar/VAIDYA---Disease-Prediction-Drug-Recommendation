@@ -1,0 +1,226 @@
+symptom,disease
+itching,Hepatitis B
+skin_rash,Psoriasis
+nodal_skin_eruptions,Fungal infection
+continuous_sneezing,Common Cold
+shivering,Allergy
+chills,Typhoid
+joint_pain,Dengue
+stomach_pain,GERD
+acidity,Migraine
+ulcers_on_tongue,GERD
+muscle_wasting,AIDS
+vomiting,Tuberculosis
+burning_micturition,Urinary tract infection
+spotting_urination,Unknown
+fatigue,Common Cold
+weight_gain,Hypothyroidism
+anxiety,Hypoglycemia
+cold_hands_and_feets,Hypothyroidism
+mood_swings,Hyperthyroidism
+weight_loss,Tuberculosis
+restlessness,Hyperthyroidism
+lethargy,Hypothyroidism
+patches_in_throat,AIDS
+irregular_sugar_level,Diabetes 
+cough,Common Cold
+high_fever,Typhoid
+sunken_eyes,Gastroenteritis
+breathlessness,Pneumonia
+sweating,Hyperthyroidism
+dehydration,Gastroenteritis
+indigestion,Migraine
+headache,Common Cold
+yellowish_skin,Hepatitis B
+dark_urine,Urinary tract infection
+nausea,Dengue
+loss_of_appetite,Tuberculosis
+pain_behind_the_eyes,Dengue
+back_pain,Dengue
+constipation,Typhoid
+abdominal_pain,Hepatitis E
+diarrhoea,Gastroenteritis
+mild_fever,Common Cold
+yellow_urine,Hepatitis B
+yellowing_of_eyes,Hepatitis B
+acute_liver_failure,Hepatitis E
+fluid_overload,Unknown
+swelling_of_stomach,Alcoholic hepatitis
+swelled_lymph_nodes,Tuberculosis
+malaise,Hepatitis B
+blurred_and_distorted_vision,Hypoglycemia
+phlegm,Tuberculosis
+throat_irritation,Common Cold
+redness_of_eyes,Common Cold
+sinus_pressure,Common Cold
+runny_nose,Common Cold
+congestion,Common Cold
+chest_pain,Pneumonia
+weakness_in_limbs,Cervical spondylosis
+fast_heart_rate,Pneumonia
+pain_during_bowel_movements,Dimorphic hemmorhoids(piles)
+pain_in_anal_region,Dimorphic hemmorhoids(piles)
+bloody_stool,Dimorphic hemmorhoids(piles)
+irritation_in_anus,Dimorphic hemmorhoids(piles)
+neck_pain,Cervical spondylosis
+dizziness,Cervical spondylosis
+cramps,Varicose veins
+bruising,Varicose veins
+obesity,Diabetes 
+swollen_legs,Varicose veins
+swollen_blood_vessels,Varicose veins
+puffy_face_and_eyes,Hypothyroidism
+enlarged_thyroid,Hypothyroidism
+brittle_nails,Hypothyroidism
+swollen_extremeties,Hypothyroidism
+excessive_hunger,Hypoglycemia
+extra_marital_contacts,AIDS
+drying_and_tingling_lips,Hypoglycemia
+slurred_speech,Hypoglycemia
+knee_pain,Osteoarthristis
+hip_joint_pain,Osteoarthristis
+muscle_weakness,Hyperthyroidism
+stiff_neck,Migraine
+swelling_joints,Arthritis
+movement_stiffness,Arthritis
+spinning_movements,(vertigo) Paroymsal  Positional Vertigo
+loss_of_balance,Cervical spondylosis
+unsteadiness,(vertigo) Paroymsal  Positional Vertigo
+weakness_of_one_body_side,Paralysis (brain hemorrhage)
+loss_of_smell,Common Cold
+bladder_discomfort,Urinary tract infection
+foul_smell_ofurine,Unknown
+continuous_feel_of_urine,Urinary tract infection
+passage_of_gases,Peptic ulcer diseae
+internal_itching,Peptic ulcer diseae
+toxic_look_(typhos),Typhoid
+depression,Hypothyroidism
+irritability,Hypoglycemia
+muscle_pain,Common Cold
+altered_sensorium,Paralysis (brain hemorrhage)
+red_spots_over_body,Chicken pox
+belly_pain,Typhoid
+abnormal_menstruation,Hypothyroidism
+dischromic_patches,Unknown
+watering_from_eyes,Allergy
+increased_appetite,Diabetes 
+polyuria,Diabetes 
+family_history,Bronchial Asthma
+mucoid_sputum,Bronchial Asthma
+rusty_sputum,Pneumonia
+lack_of_concentration,Hypertension 
+visual_disturbances,Migraine
+receiving_blood_transfusion,Hepatitis B
+receiving_unsterile_injections,Hepatitis B
+coma,Hepatitis E
+stomach_bleeding,Hepatitis E
+distention_of_abdomen,Alcoholic hepatitis
+history_of_alcohol_consumption,Alcoholic hepatitis
+blood_in_sputum,Tuberculosis
+prominent_veins_on_calf,Varicose veins
+palpitations,Hypoglycemia
+painful_walking,Arthritis
+pus_filled_pimples,Acne
+blackheads,Acne
+scurring,Acne
+skin_peeling,Psoriasis
+silver_like_dusting,Psoriasis
+small_dents_in_nails,Psoriasis
+inflammatory_nails,Psoriasis
+blister,Impetigo
+red_sore_around_nose,Impetigo
+yellow_crust_ooze,Impetigo
+watery_eyes,Common Cold
+eyes_watering,Common Cold
+sneezing,Common Cold
+nasal_congestion,Common Cold
+stuffy_nose,Common Cold
+post_nasal_drip,Common Cold
+sore_throat,Common Cold
+dry_throat,Common Cold
+hoarse_voice,Common Cold
+voice_loss,Bronchial Asthma
+difficulty_swallowing,GERD
+body_aches,Influenza
+general_malaise,Influenza
+chapped_lips,Allergy
+dry_lips,Unknown
+cracked_lips,Allergy
+lips_swelling,Allergy
+mouth_ulcers,GERD
+tongue_swelling,Allergy
+gum_swelling,Unknown
+gum_bleeding,Unknown
+tooth_pain,Unknown
+dental_pain,Unknown
+jaw_pain,Unknown
+earache,Unknown
+ear_pain,Unknown
+ear_discharge,Unknown
+tinnitus,Unknown
+ringing_in_ears,Unknown
+insomnia,Unknown
+sleep_disturbance,Unknown
+excessive_daytime_sleepiness,Unknown
+shortness_of_breath,Pneumonia
+wheezing,Pneumonia
+asthma_like_symptoms,Bronchial Asthma
+sinusitis_symptoms,Common Cold
+allergic_reaction,Allergy
+urticaria,Allergy
+hives,Allergy
+itchy_skin,Psoriasis
+itchy_eyes,Allergy
+itchy_throat,Allergy
+itchy_nose,Allergy
+muscle_soreness,Influenza
+body_fatigue,Influenza
+extreme_tiredness,Influenza
+tremors,Influenza
+shakiness,Hypoglycemia
+chills_and_fever,Malaria
+fever_with_chills,Typhoid
+intermittent_fever,Malaria
+recurring_fever,Malaria
+night_sweats,Tuberculosis
+cold_sweat,Unknown
+excessive_sweating,Hyperthyroidism
+dry_mouth,Common Cold
+excessive_thirst,Hyperthyroidism
+low_energy,Hypothyroidism
+reduced_appetite,Unknown
+difficulty_eating,GERD
+swallowing_difficulty,Unknown
+bloating,GERD
+abdominal_bloating,GERD
+gas_in_stomach,GERD
+flatulence,Unknown
+excessive_gas,Unknown
+loose_stools,Gastroenteritis
+watery_stool,Gastroenteritis
+frequent_stool,Unknown
+urgency_of_stool,Unknown
+incomplete_evacuation,Unknown
+straining_during_stool,Unknown
+frequent_urination,Urinary tract infection
+painful_urination,Urinary tract infection
+dysuria,Urinary tract infection
+urinary_incontinence,Unknown
+nocturia,Urinary tract infection
+frequent_urination_at_night,Unknown
+urinary_retention,Unknown
+cloudy_urine,Urinary tract infection
+foul_smelling_urine,Urinary tract infection
+urine_discoloration,Unknown
+dark_colored_urine,Unknown
+foamy_urine,Unknown
+pale_urine,Urinary tract infection
+severe_cough,Influenza
+muscle_aches,Influenza
+burning_urination,Urinary tract infection
+blood_in_urine,Urinary tract infection
+chest_congestion,Pneumonia
+dry_cough,Common Cold
+productive_cough,Pneumonia
+nausea_and_vomiting,Gastroenteritis
+diarrhea,Gastroenteritis
