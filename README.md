@@ -32,11 +32,11 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 <div align="center">
 
 #### Complete Application Demo
-<a href="assets/videos/demos/VAIDYA.mp4" target="_blank">
+<a href="assets/videos/demos/VAIDYA-compressed.mp4" target="_blank">
   <img src="assets/images/screenshots/homepage.png" alt="Watch Demo Video" width="800" style="border: 2px solid #e2e8f0; border-radius: 8px;"/>
 </a>
 
-*Click the image above to watch the full demo video*
+*Click the image above to watch the full demo video (2.44MB)*
 
 </div>
 
