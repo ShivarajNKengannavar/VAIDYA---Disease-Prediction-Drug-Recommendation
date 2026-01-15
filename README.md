@@ -32,11 +32,19 @@ VAIDYA is a comprehensive healthcare application that leverages artificial intel
 <div align="center">
 
 #### Complete Application Demo
-<a href="assets/videos/demos/VAIDYA-compressed.mp4" target="_blank">
-  <img src="assets/images/screenshots/homepage.png" alt="Watch Demo Video" width="800" style="border: 2px solid #e2e8f0; border-radius: 8px;"/>
-</a>
 
-*Click the image above to watch the full demo video (2.44MB)*
+🎥 **VAIDYA Platform Demo** (2:11 minutes)
+
+**📹 Download Options:**
+- [📥 Download Compressed Video (2.44MB)](assets/videos/demos/VAIDYA-compressed.mp4)
+- [📥 Original High-Quality Video (56.5MB)](https://github.com/ShivarajNKengannavar/VAIDYA---Disease-Prediction-Drug-Recommendation/releases/download/v1.0/VAIDYA.mp4)
+
+**🌐 Watch Online:**
+- [▶️ Watch on YouTube](https://www.youtube.com) *(Recommended for best experience)*
+
+---
+
+*The compressed video (2.44MB) is optimized for quick download. For the best viewing experience, watch on YouTube or download the high-quality version.*
 
 </div>
 
