@@ -428,8 +428,9 @@ du -h public/assets/videos/demos/*
 
 ## 📞 Contact
 
-**Email**: shivarajnkengannavar@example.com  
+**Email**: shivarajnkengannavar@gmail.com 
 **Portfolio**: [https://shivaraj.dev  ](https://shivarajnkengannavar-portfolio.vercel.app/)
+
 **LinkedIn**: https://www.linkedin.com/in/shivarajkengannavar/  
 **GitHub**: https://github.com/ShivarajNKengannavar
 
